@@ -24,7 +24,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("ABCDEFGHIJKLMNOPQRSTUVWXYZ");
             Console.WriteLine("O maior numero é: " + vetor1[maiorNumero] + " e está na posição: " + (maiorNumero + 1));
-            Console.WriteLine("ZYXWVUSRQPONMLKJIHFEDCBA");
+            Console.WriteLine("ZYXWVUSRQPONMLKJIHFEDCBAAAA");
         }
 
 
