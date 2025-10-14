@@ -22,7 +22,8 @@ namespace ConsoleApp1
                 }
             }
 
-           
+            Console.WriteLine("Maior valor {0} e indice {1}.", vetor1[maiorNumero], maiorNumero);
+            Console.WriteLine("********************");
         }
 
 
