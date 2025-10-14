@@ -21,6 +21,8 @@ namespace ConsoleApp1
                     maiorNumero = i;
                 }
             }
+            Console.WriteLine("maximo {1}.", vetor1[maiorNumero]);
+            Console.WriteLine("indice {1}.", maiorNumero);
 
            
         }
